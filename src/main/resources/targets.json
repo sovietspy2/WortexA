@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Orbi",
+    "age": 40,
+    "fee": 500000,
+    "assignedAssasin": {
+      "name": "42",
+      "age": 21,
+      "available": true
+    },
+    "finished": false
+  },
+  {
+    "name": "Orbi3",
+    "age": 4000,
+    "fee": 50000000,
+    "assignedAssasin": {
+      "name": "42",
+      "age": 21,
+      "available": true
+    },
+    "finished": false
+  }
+]
